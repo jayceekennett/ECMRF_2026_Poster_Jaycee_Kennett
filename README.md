@@ -4,7 +4,7 @@ Supplementary information for poster presented at ECMRF 2026
 This repository accompanies a poster presented at
 10th Suicide & Self-Harm Early and Mid-Career Researchers’ Forum, 2026.
 
-## Abstract
+## Full abstract
 
 How individuals understand their own self-harm is a crucial aspect of lived experience, but how their individual cognitive representations affect other outcomes is unclear. As such, this study examined whether cognitive representations of self-harm predict coping styles and attitudes towards seeking mental health support.
 
@@ -24,6 +24,5 @@ These findings highlight that not only how an individual understands their self-
 - Full spearman's rank correlation
 - Full results of all forced multiple linear regresion modelas
 
-## Citation
-
-Kennett J, et al. (2026)
+## Authors:
+Jaycee Kennett, Claire Friedrich, Rachel Rahman
