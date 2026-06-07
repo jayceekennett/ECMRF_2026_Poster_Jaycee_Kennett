@@ -1,9 +1,6 @@
-# cognitive-representations-self-harm-poster
-Supplementary information for poster presented at ECMRF 2026
-
-
 # Cognitive Representations of Self-Harm as Predictors of Coping Orientation and Attitudes Towards Service Engagement
 
+Supplementary information for poster presented at ECMRF 2026
 This repository accompanies a poster presented at
 10th Suicide & Self-Harm Early and Mid-Career Researchers’ Forum, 2026.
 
