@@ -12,7 +12,7 @@ This study examined how individuals’ beliefs about their own self-harm relate 
 Jaycee Kennett, Claire Friedrich, Rachel Rahman
 
 ## Poster
-- [link to poster] poster.pdf
+- [download the poster](ECMRF_2026.pdf)
 
 ## Additional Results
 - Full spearman's rank correlation
