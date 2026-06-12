@@ -15,11 +15,11 @@ Jaycee Kennett, Claire Friedrich, Rachel Rahman
 - [download the poster](ECMRF_2026.pdf)
 
 ## Additional Results
-- Full spearman's rank correlation
-- Full results of all forced multiple linear regresion models
+- [Full spearman's rank correlation](data/Correlation Results.pdf) 
+- [Full results of all multiple linear regresion models](data/Regression Results.pdf)
 
 ## Contact
-Jaycee Kennett
+Jaycee Kennett,
 Research Fellow,
 EPPI-Centre, University College London,
 jaycee.kennett@ucl.ac.uk
